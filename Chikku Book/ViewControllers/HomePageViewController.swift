@@ -126,6 +126,9 @@ class HomePageViewController: UIViewController{
         constraints.append(homePagetableView.tableHeaderView!.centerXAnchor.constraint(equalTo: homePagetableView.centerXAnchor))
         constraints.append(homePagetableView.tableHeaderView!.heightAnchor.constraint(equalToConstant: 350))
 
+        //ji hi
+        
+        
         NSLayoutConstraint.activate(constraints)
     }
     
