@@ -15,7 +15,7 @@ class TicketViewController: UIViewController {
     
     var ticket : Ticket
     
-    let happy = 10 
+    let happy = 20
     
     let dbManager : DBManager = DBManager.getInstance()
     
